@@ -1,3 +1,7 @@
+## Model work flow
+![diabtes](https://github.com/user-attachments/assets/ca0d59f0-e7fe-46ab-9336-2c98061449e5)
+
+
 ## Diabetes Prediction
 The "Diabetes Prediction" project focuses on predicting the likelihood of an individual having diabetes using machine learning techniques. By leveraging popular Python libraries such as NumPy, Pandas, Scikit-learn (sklearn), and Support Vector Machines (SVM), this project offers a comprehensive solution for accurate classification.
 
