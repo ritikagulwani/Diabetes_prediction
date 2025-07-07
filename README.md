@@ -21,4 +21,17 @@ Support Vector Machine Model: The project employs Support Vector Machines (SVM),
 
 Model Evaluation: To assess the performance of the SVM model, the project employs various evaluation metrics such as accuracy, precision, recall, and F1-score. These metrics provide insights into the model's ability to correctly classify individuals with and without diabetes.
 
+## Getting Started
+To run this project locally, follow these steps:
+
+1.Clone the repository
+
+2.Install the required libraries: If you're using Google Colab, you don't need to pip install. Just follow the importing the dependencies section.
+
+3.Launch Google Colab: https://colab.research.google.com/
+
+4.Open the diabetes_py.ipynb file and run the notebook cells sequentially.
+
+
+
 
